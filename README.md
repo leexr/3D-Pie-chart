@@ -35,3 +35,5 @@ Options
 * radius
 
 -------
+
+![screenshot](https://github.com/leexr/3D-Pie-chart/blob/career_paint/screenshot/screenshot.jpg?raw=true "screenshot")
